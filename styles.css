@@ -1,11 +1,10 @@
 
+
 #display{
-    background-color: aqua;
+    background-color: #ff7734;
     width: 258px;
     height: 45px;
     font-size: 28px;
 }
 
-#zero{
-    width: 110px;
-}
+
