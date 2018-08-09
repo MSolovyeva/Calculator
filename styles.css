@@ -1,10 +1,19 @@
 
 
 #display{
-    background-color: #ff7734;
-    width: 258px;
+    border-radius: .25rem;
+    background-color: #040503;
+    width: 408px;
     height: 45px;
     font-size: 28px;
+    color: #ffffff;
+    text-align: right;
+}
+button.btn.btn-success{
+    width: 201.5px;
+}
+button.btn.btn-secondary{
+    width: 100px;
 }
 
 
